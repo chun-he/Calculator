@@ -11,7 +11,7 @@ public class Main {
         String ret = Solve(question);
         System.out.println(ret);
     }
-
+//;;
     public static String MakeFormula(){
         StringBuilder build = new StringBuilder();
         int count = (int) (Math.random() * 2) + 1; // generate random count
